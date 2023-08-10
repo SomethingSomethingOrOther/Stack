@@ -43,7 +43,8 @@ function App() {
 
   return (
     <div className="App">
-        <h1>Stack</h1>    
+        <h1>Stack</h1> 
+        <p>Everything is awesome</p>   
     <div className="stack-container">
           <div>
             <input type="text" value={inputValue} onChange={handleInputChange}  />
